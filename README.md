@@ -16,6 +16,7 @@
 
 #### We used 2 Arduino board in this project thus 2 arduino files:
 **1.Master: Controlling the movement of the vehicle, bin detection, etcetera.**
+
 **2.Slave: Release the string winder when received a signal from Master.**
 
 
