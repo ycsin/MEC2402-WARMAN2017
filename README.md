@@ -1,10 +1,10 @@
 # WARMAN2017
-##Arduino code for Warman 2017
+## Arduino code for Warman 2017##
 
-##Monash University Sunway Malaysia
+## Monash University Sunway Malaysia
 
 
-###TEAM: SWAR #74
+### TEAM: SWAR #74
 
 -Daniel Patrick Yeap
 
@@ -14,12 +14,12 @@
 
 -Sin Yong Cong
 
-####We used 2 Arduino board in this project thus 2 arduino files:
-**Master: Controlling the movement of the vehicle, bin detection, etcetera.
-**Slave: Release the string winder when received a signal from Master.
+#### We used 2 Arduino board in this project thus 2 arduino files:
+**Master: Controlling the movement of the vehicle, bin detection, etcetera.**
+**Slave: Release the string winder when received a signal from Master.**
 
 
 
-**Warman is organised by Engineers Australia.
+**Warman is organised by Engineers Australia.**
 
-**More details here: https://warmandesignandbuild.org.au/
+**More details here: https://warmandesignandbuild.org.au/**
